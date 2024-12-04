@@ -1,5 +1,6 @@
 name: ant-repo-1
 title: Ant Repo 1
+version: '1.0'
 nav:
 - modules/ROOT/nav.adoc
 - modules/module-one/nav.adoc
