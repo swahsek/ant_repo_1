@@ -1,0 +1,7 @@
+name: ant-repo-1
+title: Ant Repo
+version: 1.0.0
+prerelease: -beta.1
+nav:
+- modules/ROOT/nav.adoc
+- modules/module-one/nav.adoc
