@@ -1,6 +1,11 @@
 name: ant_repo_1
-title: Ant Repo 1
-version: '1.0'
+title: Antora Documentation
+version: 1.0
+
 nav:
-- modules/ROOT/nav.adoc
-- modules/module-one/nav.adoc
+  - modules/ROOT/nav.adoc
+
+asciidoc:
+  attributes:
+    project-name: Antora Documentation Project
+    project-version: 1.0
