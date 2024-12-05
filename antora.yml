@@ -1,12 +1,12 @@
 name: repo_1
 title: Repo 1
 version: 1.0
-
-nav:
-- modules/ROOT/nav.adoc
-- modules/module-one/nav.adoc
-
+start_path: docs/modules
+start_page: index.adoc
 asciidoc:
   attributes:
-    project-name: Antora Repo 1
-    project-version: 1.0
+    source-language: asciidoc@
+    table-caption: false
+nav:
+- docs/modules/ROOT/nav.adoc
+- docs/modules/module-one/nav.adoc
