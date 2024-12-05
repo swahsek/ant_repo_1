@@ -1,2 +1,0 @@
-* xref:index.adoc[Index]
-* xref:overview.adoc[Overview]
