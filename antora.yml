@@ -3,6 +3,10 @@ title: Antora Repo 1
 version: 1.0
 start_path: docs
 
+nav:
+- modules/ROOT/nav.adoc
+- modules/module-one/nav.adoc
+
 asciidoc:
   attributes:
     project-name: Antora Repo 1
