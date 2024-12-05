@@ -1,11 +1,12 @@
 name: ant_repo_1
 title: Antora Documentation
 version: 1.0
+start_path: docs
 
 nav:
  - nav.adoc
 
 asciidoc:
   attributes:
-    project-name: Antora Documentation Project
+    project-name: Antora Documentation
     project-version: 1.0
