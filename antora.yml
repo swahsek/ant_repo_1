@@ -4,8 +4,8 @@ version: 1.0
 start_path: docs
 
 nav:
-- modules/ROOT/nav.adoc
-- modules/module-one/nav.adoc
+- docs/modules/ROOT/nav.adoc
+- docs/modules/module-one/nav.adoc
 
 asciidoc:
   attributes:
