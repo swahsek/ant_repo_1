@@ -1,7 +1,6 @@
 name: ant_repo_1
 title: Ant Repo 1
 version: 1.0
-start_path: docs
 start_page: index.adoc
 asciidoc:
   attributes:
