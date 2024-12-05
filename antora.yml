@@ -2,8 +2,7 @@ name: ant_repo_1
 title: Antora Documentation
 version: 1.0
 
-nav:
-  - nav.adoc
+nav: nav.adoc
 
 asciidoc:
   attributes:
